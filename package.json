@@ -1,0 +1,22 @@
+{
+	"name": "ambiencetheme",
+	"displayName": "AmbienceTheme",
+	"description": "ambience theme",
+	"version": "0.2.5",
+	"publisher": "v77",
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ambience Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ambience.json"
+			}
+		]
+	}
+}
